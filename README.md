@@ -1,4 +1,4 @@
-## Olá sou o Iago Rodrigues e estudo programação Web!
+# Olá sou o Iago Rodrigues e estudo programação Web!
 
 Estudo na Etec Prof. Carmine Biagio Tundisi, curso DS (Desenvolvimento de Sistemas) e pretendo seguir na área <br>
 Ultimamente tenho estudado linguagens de manipulação como css e sass
