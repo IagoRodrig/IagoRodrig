@@ -1,36 +1,46 @@
 <img width=100% src="./src/capa.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffffsize=35&center=true&vCenter=true&width=1000&lines=IAE,+meu+nome+é+Iago+Rodrigues;Tenho+17+anos;Eu+sou+do+Brasil;Curso+Desenvolvimento+de+Sistemas;Sejá+bem+vindo!+:%29)](https://git.io/typing-svg)
+# 📝About Me
 
-<div align="center">
-  <h1>☕</h1>
+<p align="center">
+I have studied programming for 3 years. I've been trying to delve deeper into react, and here I post projects that I'm developing</p>
+<br/><br/>
 
-  Salve gente, eu estudo na Etec Prof. Carmine Biagio Tundisi, e curso DS(Desenvolvimento de Sistemas) <br>
-</div>
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<div align="center"> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoRRocha&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" />
-</div>
+<table align="center"><tr><td valign="top" width="30%">
 
-<div align="center" style="display: inline_block"><br>
-<!--   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Iago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="npm" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" background="#fff" alt="GitHub" height="35" width="45" src="https://github.com/feathericons/feather/blob/main/icons/github.svg">
-  <img align="center" alt="Arduino" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Azure" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Firebase" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Iago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-</div>
+### <div align="center"> Frontend </div>
 
-##
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,bootstrap&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="30%">
+
+### <div align="center"> Back / Databases</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,postgres,firebase,supabase,azure&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vscode,postman,git&theme=dark&perline=2" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IagoRodrig&theme=radical" />
+</p>
+<br/><br/>
 
 <div align="center">
 
@@ -49,5 +59,14 @@
   <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   
 </div>
+
+<br>
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IagoRodrig&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IagoRodrig&theme=radical)
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
