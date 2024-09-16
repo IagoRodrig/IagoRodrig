@@ -37,10 +37,10 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IagoRodrig&theme=radical" />
+<p align="center" flex-direction="column">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&border_color=171717" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&theme=transparent" />
 </p>
-<br/><br/>
 
 <div align="center">
 
@@ -62,10 +62,9 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 
 <br>
 
-<div align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IagoRodrig&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IagoRodrig&theme=radical)
+<div align="center" width="100%">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&border_color=171717" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&theme=transparent" />
 </div>
 
 
