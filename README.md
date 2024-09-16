@@ -8,12 +8,12 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<table align="center"><tr><td valign="top" width="30%">
+<table align="center" width="100%"><tr><td valign="top" width="30%">
 
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,bootstrap&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,js,jquery,react,bootstrap,sass,css,html&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -21,7 +21,7 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 ### <div align="center"> Back / Databases</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,postgres,firebase,supabase,azure&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,postgres,firebase,supabase,azure&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -29,7 +29,7 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 ### <div align="center"> Tools</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vscode,postman,git,figma,github&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=docker,vscode,postman,git,figma,github,netlify,npm&theme=dark&perline=4" />
 </p>
 
 </td></tr></table>
