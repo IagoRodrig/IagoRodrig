@@ -13,7 +13,7 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,bootstrap&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,bootstrap&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -26,7 +26,7 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 
 </td><td valign="top" width="30%">
 
-### <div align="center"> Back / Databases</div>
+### <div align="center"> Tools</div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,vscode,postman,git,figma,github&theme=dark&perline=3" />
@@ -38,8 +38,8 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 # 📊 GitHub Stats
 
 <p align="center" flex-direction="column">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&border_color=171717" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&theme=transparent" />
+  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&rank_icon=github" />
+  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86" />
 </p>
 
 <div align="center">
@@ -60,12 +60,4 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
   
 </div>
 
-<br>
-
-<div align="center" width="100%">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&border_color=171717" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&theme=transparent" />
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BC4D1&height=120&section=footer"/>
