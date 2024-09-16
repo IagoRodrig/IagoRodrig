@@ -38,8 +38,8 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 # 📊 GitHub Stats
 
 <p align="center" flex-direction="column">
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&rank_icon=github" />
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=IagoRodrig&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&rank_icon=github" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoRodrig&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86" />
 </p>
 
 <div align="center">
