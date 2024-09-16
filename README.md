@@ -24,12 +24,12 @@ I have studied programming for 3 years. I've been trying to delve deeper into re
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,postgres,firebase,supabase,azure&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
 
-### <div align="center"> Tools </div>
+### <div align="center"> Back / Databases</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vscode,postman,git&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=docker,vscode,postman,git,figma,github&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
